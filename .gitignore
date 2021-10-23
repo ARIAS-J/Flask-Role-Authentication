@@ -1,0 +1,6 @@
+venv/Lib
+__pycache__
+venv/Scripts
+venv/Include
+venv/loginform/loginform.db
+venv/pyvenv.cfg
